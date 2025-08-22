@@ -52,3 +52,16 @@ coverage/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Large video files (uncomment if using Git LFS)
+# *.mp4
+# *.mov
+# *.avi
+
+# Demo assets (comment out lines below if you want to include demo files)
+# demo/*.mp4
+# demo/*.mov
+
+# Large original/backup video files
+demo/*_original.*
+demo/*_ultracompressed.*

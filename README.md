@@ -12,6 +12,7 @@
 ## 📋 Table of Contents
 
 - [🎯 Overview](#-overview)
+- [🎥 Demo](#-demo)
 - [✨ Features](#-features)
 - [🚀 Quick Start](#-quick-start)
 - [⚙️ Configuration](#-configuration)
@@ -21,7 +22,7 @@
 - [🛠️ Development](#-development)
 - [📈 Monitoring & Analytics](#-monitoring--analytics)
 - [🎨 Human-Centered Design](#-human-centered-design)
-- [🔮 Future Enhancements](#-future-enhancements)
+- [👨‍💻 Author](#-author)
 
 ---
 
@@ -36,6 +37,29 @@ This chatbot represents a **thoughtful balance between AI capability and practic
 - **GPT-3.5-turbo as Default**: Optimal cost/performance ratio for property queries
 - **Comprehensive Configuration**: Production flexibility without complexity overhead
 - **Human-Centered UX**: Animated feedback, cost transparency, and clear messaging
+
+---
+
+## 🎥 Demo
+
+### Video Walkthrough
+
+> **📹 See the chatbot in action!**
+
+**🎬 View Options:**
+- **Browse Video:** [📁 View in GitHub](https://github.com/arizawan/realestate-ai-cli-chatbot/blob/main/demo/chatbot_demo.mp4) *(click to preview in browser)*
+- **Download Video:** [⬇️ Download MP4](https://github.com/arizawan/realestate-ai-cli-chatbot/raw/main/demo/chatbot_demo.mp4) *(3.8MB, right-click → Save As)*
+
+> **💡 Tip:** Click "View in GitHub" above to watch the video directly in your browser without downloading!
+
+*Watch how the AI chatbot helps users find the perfect rental property with natural language queries, real-time cost tracking, and intelligent recommendations.*
+
+### Key Demo Highlights:
+- 🤖 **Natural Language Processing**: Ask complex property questions
+- ⚡ **Lightning Fast Responses**: Sub-second AI-powered search
+- 💰 **Transparent Cost Tracking**: Real-time token usage and pricing
+- 🎨 **Engaging User Experience**: Animated thinking indicators
+- 🏠 **Smart Recommendations**: AI understands preferences and context
 
 ---
 
@@ -571,6 +595,15 @@ chalk.gray('💰 Metadata')        // Unobtrusive information
 - Screen reader compatible output
 - Keyboard-only operation
 - Configurable interface elements
+
+---
+
+## 👨‍💻 Author
+
+**Ahmed Rizawan**
+- 🔗 GitHub: [@arizawan](https://github.com/arizawan)
+- 💼 Project: Rental Property AI Chatbot
+- 🎯 Built for: Lamco MVP Hiring Process
 
 ---
 

@@ -24,7 +24,7 @@
     "openai",
     "real-estate"
   ],
-  "author": "Ahmed Maher Algohary",
+  "author": "Ahmed Rizawan",
   "license": "MIT",
   "dependencies": {
     "openai": "^4.20.0",

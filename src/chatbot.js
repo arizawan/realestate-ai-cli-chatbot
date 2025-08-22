@@ -108,7 +108,7 @@ class RentalPropertyChatbot {
       // Show developer info and build details
       if (this.config.debugMode) {
         console.log(chalk.gray('━'.repeat(50)));
-        console.log(chalk.gray('👨‍💻 Built by: Ahmed Maher Algohary'));
+        console.log(chalk.gray('👨‍💻 Built by: Ahmed Rizawan'));
         console.log(chalk.gray('📝 For: Lamco MVP Hiring Process'));
         console.log(chalk.gray('🤖 AI Model: ' + this.config.openaiModel));
         console.log(chalk.gray('📊 Properties: ' + this.config.maxProperties));

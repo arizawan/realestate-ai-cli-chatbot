@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "totalProperties": 18,
+    "lastUpdated": "2024-12-19T15:45:00.000Z",
+    "source": "Real Estate API - https://real-estate-server-depi.vercel.app/api/residency/allresd",
+    "description": "Complete rental property listings for AI chatbot demonstration",
+    "priceRange": {
+      "min": 18,
+      "max": 255,
+      "currency": "USD",
+      "period": "night"
+    },
+    "geographicCoverage": [
+      "United Kingdom",
+      "Italy", 
+      "Denmark",
+      "Thailand",
+      "Brazil",
+      "Indonesia",
+      "Morocco",
+      "India",
+      "France",
+      "United States",
+      "Australia"
+    ]
+  },
+  "properties": [
+    {
+      "id": "648a1ed5d52203e45f037608",
+      "title": "Historic Maltings loft with view near Tower Bridge",
+      "description": "Bright spacious double bedroom of 4x5 metres for 1-2 adults with you own small private ensuite bathroom attached. This sunny and characterful room is in our home on the top floor of a historic listed 19th Century Maltings vinegar building. It's clean, cozy & secure in a gated property with a 24hr security guard. You are the only guests in our peaceful home. THERE IS NO ELEVATOR SO YOU MUST CLIMB 3 flights of stairs. 10 min walk to Tower Bridge, Shard, Thames, London Bridge, and Borough mkt",
+      "price": 123,
+      "address": "Greater London, England, United Kingdom",
+      "city": "London",
+      "country": "United Kingdom",
+      "image": "https://a0.muscache.com/im/pictures/cf29ff85-3114-4615-9ee9-81903c53e98a.jpg?im_w=1200",
+      "facilities": {
+        "bedrooms": 5,
+        "parkings": 5,
+        "bathrooms": 8
+      },
+      "userEmail": "zain@gaintime.io",
+      "createdAt": "2023-06-14T20:11:01.081Z",
+      "updatedAt": "2023-06-14T20:11:01.081Z"
+    },
+    {
+      "id": "6460802e05fa5b3fd0527f65",
+      "title": "La Mansarda suite",
+      "description": "The bedroom in the attic is equipped with two single beds, one of which can be moved at will. Private and exclusive bathroom. The room is inside a finely furnished penthouse on the 3rd and last floor of an elegant 18th century Venetian palace, without a lift. The rooftop terrace and living area are shared with guests in the other room. It is not allowed to use the kitchen. Air conditioning/heating and free Wi-Fi.",
+      "price": 97,
+      "address": "Venice, Veneto, Italy",
+      "city": "Venice",
+      "country": "Italy",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-51417883/original/0ac0b97a-4e22-45a6-8d4e-b6812a4225d2.jpeg?im_w=1200",
+      "facilities": {
+        "bedrooms": 5,
+        "parkings": 2,
+        "bathrooms": 3
+      },
+      "userEmail": "ahmadrao925@gmail.com",
+      "createdAt": "2023-05-14T06:31:09.883Z",
+      "updatedAt": "2023-05-14T06:31:09.883Z"
+    },
+    {
+      "id": "645e27938b90ba42adbed599",
+      "title": "Cosy room in fabulous condo!",
+      "description": "Cosy room in renovated condo from 1869 in wonderful Copenhagen! I sometimes live in the flat and sometimes there will be other social visitors, but you will have your private space. Ravnsborggade is situated in a popular street for cafes and antiques, only a short walking distance from the lakes, botanical garden, parks, city centre, trains, bus and metro. I prefere guests with a bio and high scores on airbnb.",
+      "price": 81,
+      "address": "Copenhagen, Denmark",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-39000504/original/b385f68f-e383-42b3-b790-729059674f08.jpeg?im_w=1200",
+      "facilities": {
+        "bedrooms": 2,
+        "parkings": 3,
+        "bathrooms": 2
+      },
+      "userEmail": "zain@gaintime.io",
+      "createdAt": "2023-05-12T11:48:35.028Z",
+      "updatedAt": "2023-05-12T11:48:35.028Z"
+    },    {
+      "id": "645cd0d8616ffb7ce699bb8e",
+      "title": "Ba hao Residence x SANTIPHAP ROOM",
+      "description": "SANTIPHAP ROOM - is a spacious en-suite located on the top floor of the renovated 40-year old shophouse call 'Ba hao'. The room is a Thai-contemporary inspired, overlooking one of the most sacred 'Trimit Temple' and a balcony with little garden. No matter you need a natural daylight or a clean sleeping, this room is suitable for you. We use black-out curtain so you don't need to worry about the morning light after your hard night out. Extra bed is available upon request.",
+      "price": 139,
+      "address": "Bangkok, Krung Thep Maha Nakhon, Thailand",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "image": "https://a0.muscache.com/im/pictures/e1387ceb-abdb-4fcb-9236-bd90da2e8c55.jpg?im_w=1200",
+      "facilities": {
+        "bedrooms": 12,
+        "parkings": 2,
+        "bathrooms": 3
+      },
+      "userEmail": "ahmadrao925@gmail.com",
+      "createdAt": "2023-05-11T11:26:15.440Z",
+      "updatedAt": "2023-05-11T11:26:15.440Z"
+    },
+    {
+      "id": "643a30b60c4348510952923a",
+      "title": "Cozy da Leda 3",
+      "description": "Beautiful and comfortable house with a privileged view, surrounded by paradisiacal beaches, a 3-minute walk from Praia Grande and Centro. *Breakfast included. (Simple yet tasty coffee shop!) *Bedroom with private bathroom. To get there you need to climb the stairs (similar to 4 floors). Please respect the hours of support. We do not answer calls, applications or receive customers between 10 and 8 am. Thank you in advance.",
+      "price": 18,
+      "address": "Centro, Rio de Janeiro, Brazil",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "image": "https://a0.muscache.com/im/pictures/airflow/Hosting-21823836/original/87669a54-58c8-4682-a41a-05581fff7ec6.jpg?im_w=1200",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-15T05:05:58.189Z",
+      "updatedAt": "2023-04-15T05:05:58.189Z"
+    },
+    {
+      "id": "64392e69dfd90fb29e464fc1",
+      "title": "Cozy cottage by the tropical garden - Joglo Villa",
+      "description": "Experience a simple luxury in our rustic cabin, rebuilt in our place from traditional vernacular house of the Javanese. The Joglo villa features everything you need for a holiday getaway, including a spacious veranda where you can enjoy the fresh air and relax. This compact cabin is always cool with windows that bring natural light into the room. The queen-sized bed, a generous size sofa, a desk and a garden bathroom with a rain shower are very well laid to ensure comfort.",
+      "price": 32,
+      "address": "Tampak Siring, Gianyar, Bali , Indonesia",
+      "city": " Bali",
+      "country": "Indonesia",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-700556011074770966/original/d3f035eb-17d9-4144-97a5-443e2a5b8ebf.jpeg?im_w=1200",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:43:53.665Z",
+      "updatedAt": "2023-04-14T10:43:53.665Z"
+    },    {
+      "id": "64392e57dfd90fb29e464fc0",
+      "title": "Beautiful Room in Shoreditch",
+      "description": "This stunning and stylish property located in Central London a few minutes walk away from the Shoreditch High Street Overground and Algate East Station Underground. The apartment is located in London's most trendy area, in the heart of Spitalfield, which was established by the Huguenots in 1685. Everything is at your doorstep, from galleries to restaurants, elegant shops and vintage places.",
+      "price": 79,
+      "address": "Greater London, England, United Kingdom",
+      "city": "London",
+      "country": "England",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1220848159444167020/original/5f01b7fe-e300-489b-a1fd-d0f9fd8d790b.jpeg?im_w=1200",
+      "facilities": {
+        "bathrooms": "3",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:43:35.761Z",
+      "updatedAt": "2023-04-14T10:43:35.761Z"
+    },
+    {
+      "id": "64392e46dfd90fb29e464fbf",
+      "title": "Ideal for a romantic getaway !",
+      "description": "Located inside the Médina, Riad Chamali's staff will make you live an unforgettable experience : feel like at home in Marrakech ! Airport transfer, table d'hote, musical evening, guided tour, massages and treatments on-site, as many services at your disposal. Our breakfasts (standard formula) are offered. Welcome to your home !",
+      "price": 92,
+      "address": "Marrakesh, Marrakesh-Tensift-Al Haouz, Morocco",
+      "city": "Marrakesh-Tensift-Al Haouz",
+      "country": "Morocco",
+      "image": "https://a0.muscache.com/im/pictures/d04fcbb0-6703-43b5-bbdc-8e96e89ddc68.jpg?im_w=1200",
+      "facilities": {
+        "bathrooms": "2",
+        "parking": "1",
+        "bedrooms": "2"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:43:18.186Z",
+      "updatedAt": "2023-04-14T10:43:18.186Z"
+    },
+    {
+      "id": "64392e32dfd90fb29e464fbe",
+      "title": "Room II - Lazy Crib",
+      "description": "You will be close to everything when staying at this centrally-located place. Note: This room is within our family home, situated separately from the main house. It's entirely private, although you might encounter typical household sounds such as cooking or the doorbell occasionally. :PARKING IS NOT AVAILABLE:",
+      "price": 32,
+      "address": "New Delhi, Delhi, India",
+      "city": "Delhi",
+      "country": "India",
+      "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1077458141923207290/original/d2024ce4-69bb-4599-a1e4-f84779f14fdd.jpeg?im_w=1200",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:42:58.826Z",
+      "updatedAt": "2023-04-14T10:42:58.826Z"
+    },    {
+      "id": "64392e1edfd90fb29e464fbd",
+      "title": "Bright room in nice apartment bas faron",
+      "description": "Room, breakfast included, in a quiet area, 15 minutes walk from the train station and the city center, 10 minutes walk from the conservatory, zenith omega and hiking Mont Faron. Bus 20 on the street provides access to the Mourillon beaches. Parking spaces on the street.",
+      "price": 31,
+      "address": "Toulon, Provence-Alpes-Côte d'Azur, France",
+      "city": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-48540750/original/e18cbd23-79de-417c-920c-073e0eb401ed.jpeg?im_w=1200",
+      "facilities": {
+        "bathrooms": "2",
+        "parking": "1",
+        "bedrooms": "3"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:42:37.946Z",
+      "updatedAt": "2023-04-14T10:42:37.946Z"
+    },
+    {
+      "id": "64392e0bdfd90fb29e464fbc",
+      "title": "Bright large bedroom in beautiful apartment",
+      "description": "You will enjoy a large private room of 14 m², with a double bed, a large desk, a armchair and multiple storage spaces. Breakfast is included with the room (bread, butter, jam, honey, tea or coffee) Located in a lively area of Levallois, the apartment is spacious with a large living room and a separate dining room. You will have access to all amenities (TV, washing machine, kitchen etc.) and you can prepare a meal in the kitchen in the evening.",
+      "price": 86,
+      "address": "Levallois-Perret",
+      "city": "Île-de-France",
+      "country": "France",
+      "image": "https://a0.muscache.com/im/ml/photo_enhancement/pictures/miso/Hosting-716525169949563273/original/29bbb1dc-be6c-4651-bc74-345eadcea134.jpeg?im_w=1200",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:42:19.231Z",
+      "updatedAt": "2023-04-14T10:42:19.231Z"
+    },
+    {
+      "id": "64392df2dfd90fb29e464fbb",
+      "title": "Quiet room in large house.",
+      "description": "Double sized room with a single new bed, fitted wardrobe and beautiful view onto private rear garden. House is situated in the west end, 10 mins taxi tide from train station. Quiet street in a lovely area with free on street parking.",
+      "price": 42,
+      "address": "Aberdeen, Aberdeenshire, United Kingdom",
+      "city": "Aberdeenshire",
+      "country": "United Kingdom",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-8255164/original/8c539b06-a2f3-4621-b302-3c43cdef154d.jpeg?im_w=1200",
+      "facilities": {
+        "bathrooms": "7",
+        "parking": "2",
+        "bedrooms": "10"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:41:54.156Z",
+      "updatedAt": "2023-04-14T10:41:54.156Z"
+    },    {
+      "id": "64392ddddfd90fb29e464fba",
+      "title": "Modern Space w/ Private Bath",
+      "description": "Enjoy our guest suite with a full size kitchen with all the comforts of home while being 5 minutes from the A, C, J, Z, and L trains, which get you anywhere in Manhattan in 30 minutes. After a busy day exploring the city, come back to a place with full size appliances, washer/dryer, and backyard access with a great vibes, a space to hang out, and things for younger kids to entertain themselves with",
+      "price": 255,
+      "address": "Brooklyn, New York, United States",
+      "city": "New York",
+      "country": "United States",
+      "image": "https://a0.muscache.com/im/ml/photo_enhancement/pictures/0ded81e7-5412-4d14-9b81-02af2ecea2a1.jpg?im_w=960",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:41:32.998Z",
+      "updatedAt": "2023-04-14T10:41:32.998Z"
+    },
+    {
+      "id": "64392d67dfd90fb29e464fb8",
+      "title": "1BD (Shared Apt) - Car & Gas w/FreeParK",
+      "description": "This beautiful 1-BD/1 BA room in a luxury condo corner apt is on the water's edge. It has ocean views at the world-renowned 'Icon' in the Brickell section of Miami. Book your stay and get white-glove service (i.e., the apartment Optional car (fully loaded, including power driver/ passenger seats and push button start), free parking, a free tank of gas, and a SunPass transponder for free tolls). This is the only Airbnb apt in the city offering a car with your rental.",
+      "price": 129,
+      "address": "Miami, Florida, United States",
+      "city": "Florida",
+      "country": "United States",
+      "image": "https://a0.muscache.com/im/ml/photo_enhancement/pictures/miso/Hosting-54141695/original/00872205-2bed-4d46-b353-0695a3d3ab9a.jpeg?im_w=1200",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:39:35.044Z",
+      "updatedAt": "2023-04-14T10:39:35.044Z"
+    },
+    {
+      "id": "64392d39dfd90fb29e464fb7",
+      "title": "Private room near RMIT, Melbourne Uni & the CBD",
+      "description": "Cosy and quiet, Carlton room in a magnificent row of terrace houses on the edge of the CBD. Situated in one of the most vibrant inner-city suburbs in the whole of Australia, you'll be: a five min walk from RMIT, a ten min walk from Melbourne Uni, 200m from glorious Carlton Gardens (home to the Royal Exhibition Building and The Melbourne Museum) and literally on the edge of the CBD. An 8 min walk from either Parliament or Melbourne Central train stations.",
+      "price": 44,
+      "address": "Carlton, Australia",
+      "city": "Victoria",
+      "country": "Australia",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1254559497921661583/original/cd028db7-a857-4de2-bac3-51cff9df45bd.jpeg?im_w=1200",
+      "facilities": {
+        "bathrooms": "2",
+        "parking": "1",
+        "bedrooms": "5"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T10:38:48.762Z",
+      "updatedAt": "2023-04-14T10:38:48.762Z"
+    },    {
+      "id": "6439011d74446601d6fce96f",
+      "title": "Room3 salin villa",
+      "description": "Keep it simple at this peaceful and centrally-located place.",
+      "price": 22,
+      "address": "Kecamatan Kuta Utara, Bali, Indonesia",
+      "city": "Bali",
+      "country": "Indonesia",
+      "image": "https://a0.muscache.com/im/pictures/6c0c4dbf-13da-48b2-a2cc-77949b30296d.jpg?im_w=960",
+      "facilities": {
+        "bathrooms": "2",
+        "parking": "1",
+        "bedrooms": "3"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T07:30:36.761Z",
+      "updatedAt": "2023-04-14T07:30:36.761Z"
+    },
+    {
+      "id": "643900fa74446601d6fce96e",
+      "title": "Huge bedroom, Ensuite Bathroom and Private Garden",
+      "description": "A huge bedroom with ensuite bathroom and private patio. A four-poster SUPER king-size bed and a beautiful garden make for a wonderfully romantic base for your London adventure. Incredibly quiet, yet only 5 minutes walk from Covent Garden. An incredible living room and fully-equipped kitchen complete the ensemble! Only two minutes from an Underground station with direct access to Heathrow & the London Transport network.",
+      "price": 177,
+      "address": "London, England, United Kingdom",
+      "city": "London",
+      "country": "United Kingdom",
+      "image": "https://a0.muscache.com/im/ml/photo_enhancement/pictures/037049c6-8eec-4502-b59d-8e6fb0757d35.jpg?im_w=960",
+      "facilities": {
+        "bathrooms": "4",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T07:29:58.262Z",
+      "updatedAt": "2023-04-14T07:29:58.262Z"
+    },
+    {
+      "id": "6439001c74446601d6fce96d",
+      "title": "Elegant private room by the Meatpacking District",
+      "description": "As your host I will make sure you feel very welcome here! There is plenty of shared space in my apartment - kitchen, large bathroom, large living room and a terrace.",
+      "price": 97,
+      "address": "Copenhagen, Denmark",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-37612212/original/d0849e80-784b-4801-8971-7c413a4aa51e.jpeg?im_w=1200",
+      "facilities": {
+        "bathrooms": "3",
+        "parking": "1",
+        "bedrooms": "2"
+      },
+      "userEmail": "depi@gmail.com",
+      "createdAt": "2023-04-14T07:26:20.051Z",
+      "updatedAt": "2023-04-14T07:26:20.051Z"
+    }
+  ]
+}
